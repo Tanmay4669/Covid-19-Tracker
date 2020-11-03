@@ -1,0 +1,35 @@
+#nav{
+    display: inline;  
+    padding: 3px 5px 1px 990px;
+  }
+  li{
+    display: inline;
+    list-style: none;
+    padding: 3px 65px 1px 5px;
+    
+  }
+  table{
+    font-family: "archia";
+  }
+  h1{
+      font-family: "archia";
+      text-align: center;
+      color: white;
+  }
+  h5{
+    text-align: center;
+  }
+  body{
+      background: url('cov1.jpg');
+     
+  }
+  th{
+      color: white;
+      font:bolder;
+  }
+  #tb{
+      background: rgba(199, 99, 246, 0.068);
+  }
+  .row{
+    text-align: center;
+  }
